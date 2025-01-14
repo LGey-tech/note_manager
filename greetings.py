@@ -5,9 +5,4 @@ status = ('Статус заметки')
 created_date = ('Дата создания заметки')
 issue_date = ('Дата истечения заметки (дедлайн)')
 
-print( username,': Костя Ливан')
-print(title, ': поход за кефиром')
-print(content, ': необходимо сходить в магазин за кефиром на утро')
-print(status, ': выполняется')
-print(created_date, ': 10.11.2024')
-print(issue_date, ': 10.12.2024')
+
