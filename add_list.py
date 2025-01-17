@@ -16,4 +16,4 @@ task1 = input('Заголовок №1:')
 task2 = input('Заголовок №2:')
 task3 = input('Заголовок №3:')
 
-print(f'1.',task1,'\n2.',task2,'\n3.',task3)
+print(f'Заголовки заметки:\n1.',task1,'\n2.',task2,'\n3.',task3)
