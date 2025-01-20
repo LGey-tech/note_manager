@@ -15,13 +15,13 @@ print(f'Дата создания:', temp_created_date[0:5])
 print(f'Дата истечения срока:', temp_issue_date[0:5])
 
 tasks = [
-    'Заголовки заметок:',
+
     task1,
-    task2, 
+    task2,
     task3,
 
 ]
 
 
-print(tasks)
+print('Заголовки заметки:\n1.', tasks[0], '\n2.', tasks[1], '\n3.', tasks[2],)
 
