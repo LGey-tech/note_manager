@@ -16,4 +16,19 @@ note = [
     [task1, task2]
 ]
 
-print(note)
+
+username1 = ('Имя пользователя:')
+title1 = ('Заголовок заметки:')
+content1 = ('Описание заметки:')
+status1 = ('Статус заметки:')
+created_date1 = ('Дата создания заметки:')
+issue_date1 = ('Дата истечения заметки (дедлайн):')
+tasks = ('Заголовки:')
+
+print(username1, note[0])
+print(title1, note[1])
+print(content1, note[2])
+print(status1, note[3])
+print(created_date1, note[4])
+print(issue_date1, note[5])
+print(tasks, note[6])
